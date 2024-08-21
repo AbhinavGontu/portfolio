@@ -116,33 +116,39 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "python",
+    img: "/python-svgrepo-com.svg",
+    // nameImg: "/cloudName.svg",
   },
   {
     id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
+    name: "ts",
+    img: "/typescript-svgrepo-com.svg",
+    // nameImg: "/appName.svg",
   },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    name: "nextjs",
+    img: "/nextjs-svgrepo-com.svg",
+    // nameImg: "/hostName.svg",
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
+    name: "fastapi",
+    img: "/fastapi-svgrepo-com.svg",
+    // nameImg: "/streamName.svg",
   },
   {
     id: 5,
-    name: "docker.",
+    name: "docker",
     img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    // nameImg: "/dockerName.svg",
+  },
+  {
+    id: 6,
+    name: "k8s",
+    img: "/kubernetes-svgrepo-com.svg",
+    // nameImg: "/dockerName.svg",
   },
 ];
 
